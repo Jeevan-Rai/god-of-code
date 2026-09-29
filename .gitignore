@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# Local tooling / private notes
+Modelfile
+interview-prep/
+thirty-days.html
+
+# Build & environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+target/
+*.o
+*.out
+a.out
+node_modules/
